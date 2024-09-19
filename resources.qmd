@@ -1,0 +1,27 @@
+---
+title: "Resources"
+---
+
+The only formal training I received was through a research project as an undergrad and a statistics course as a graduate student. Everything else I learned from mentors, books, and the world wide web. Here are some things I have found useful in my journey. Below is a non-exhaustive list of some resources that I have found helpful.
+
+# Open Source Books About R
+
+Big Book of R: <https://www.bigbookofr.com/>
+
+R for Data Science: <https://r4ds.hadley.nz/>
+
+# Data Books
+
+Data Detective
+
+# Boot Camps
+
+Data Camp
+
+# Community
+
+R-Ladies
+
+AIR
+
+How I built this website: <https://jadeyryan.com/blog/2024-02-19_beginner-quarto-netlify/>

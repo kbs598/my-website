@@ -2,17 +2,27 @@
 title: "Katlyn Bagley-Sepsey"
 image: images/profile.jpg
 about:
+  id: hero-heading
   template: jolla
   links: 
+    - icon: briefcase
+      text: Work
+      href: https://www.furman.edu/offices-services/institutional-research/ 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/katlyn-bagley-sepsey
     - icon: github
       text: GitHub
       href: https://www.github.com/kbs598
+    - icon: book
+      text: Goodreads
+      href: https://www.goodreads.com/user/show/71639232-katlyn
 ---
 
-Welcome to my website!
+::: {#hero-heading}
+Welcome! I am just trying to make the world a better place, or at least not make it worse. I enjoy learning new things and I want to pass on what I have learned.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Some things I love are my family, my cats, bird watching, lemon-flavored desserts, and science fiction books. I am currently the Associate Director of Institutional Research and Reporting at Furman University and a mom of three.
+:::
 
-```{r}
-1 + 1
-```
+![](images/cats copy.JPG){fig-alt="two cats laying in the sun"}

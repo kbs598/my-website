@@ -1,0 +1,83 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Professional Experience
+
+### Associate Director of Institutional Research and Reporting (current)
+
+[![](images/Academic%20Logo.png)](https://www.furman.edu/)
+
+1\. Assists in the development and maintenance of databases to track key institutional metrics, enabling efficient retrieval and analysis of data for various research projects.\
+2. Collaborates with faculty, staff, and administrators to design and implement surveys, collecting and analyzing data to assess student satisfaction, program effectiveness, and institutional performance.\
+3. Produces detailed reports and presentations, summarizing research findings and recommendations for senior leadership, contributing to evidence-based decision-making processes.\
+4. Utilizes statistical tools and methodologies to analyze enrollment patterns, student demographics, and financial data, supporting the institution's efforts in optimizing resource allocation.\
+5. Stays current with industry best practices and emerging research methodologies, ensuring the institution remains at the forefront of innovative research and data analysis techniques.\
+6. Assists in the preparation of accreditation materials by providing accurate and relevant data, contributing to the institution's successful accreditation processes.\
+7. Collaborates with cross-functional teams to assess and enhance data quality, implementing data governance protocols to maintain accuracy and consistency in institutional research databases.\
+8. Manages research projects from conception to completion, demonstrating strong organizational skills and attention to detail in delivering high-quality research outcomes.\
+9. Serves as liaison from the college to various authorities at the federal, state, and local levels for data reporting and research studies.\
+10. Prepares state, federal, and college accountability reports according to documented requirements, ensuring accuracy and timeliness.
+
+### Assistant Director for Analytics and Support
+
+1\. Assisted the Directors in the development of assessment plans, strategic thinking and planning, learning outcomes, and goals and objectives coordinated with the mission and vision statements of the University, the Division of Student Life, and the Division of Academic Affairs.\
+2. Served as the project manager for all new software programs utilized by the Center for Academic Success and the disability resources office.\
+3. Communicated with the vendors regarding software problems, upgrades, contracts, and support.\
+4. Researched future projects and best practices for the Center for Academic Success and the disability resources office.\
+5. Assisted in the development and implementation of a new Peer Assisted Learning Program (peer tutoring program), that included training 30+peer tutors, digital marketing, and analytical reporting.
+
+### Accessibility Specialist
+
+1\. Provided intake services for new or returning students including the interview process, evaluation and determination of accommodations, and developed individual accommodations plans for students with disabilities.\
+2. Coordinated activities for accessibility in accordance with student eligibility, needs and requirements.\
+3. Assessed students’ technology proficiency and individual needs to recommend the most effective assistive technology.\
+4. Met individually with students to provide training in the effective selection and use of assistive technologies.\
+5. Worked closely with the Student Office for Accessibility staff in the implementation of strategic initiatives and departmental programs.
+
+### Accessibility Coordinator
+
+1\. Developed an in-depth understanding of student development, ADA and Section 504.\
+2. Assisted new students with navigating the accommodations process.\
+3. Processed intake paperwork and created files for all new clients with respect to academic accommodations, housing accommodations, meal plan accommodations and parking accommodations.\
+4. Assisted with preparing alternate format materials, including the creation of tactile graphics for visually impaired students and alternate text descriptions for graphics primarily in STEM content.\
+5. Maintained primary responsibility for coordinating note-taking services for students with disabilities to include interviewing, hiring, and supervising student note-takers and disseminating notes in a timely manner to students who are approved for and request this accommodation.\
+6. Oversaw video captioning for accommodated students.
+
+### Department Assistant
+
+1\. Took responsibility for daily operations of the office. Arranged purchases of office supplies and\
+materials on hand. Produced letters, memos and reports using the computer. Prepared travel requests, vouchers, purchases.\
+2. Scheduled client appointments and administrative appointments for the Director of Student\
+Accessibility Resources and the Accessibility Specialist.\
+3. Assisted with proctoring exams and associated paperwork.\
+4. Received telephone calls and personal inquiries, informed inquirers as to types of services offered, and screened and referred clients appropriately to other appropriate campus resources.\
+5. Operated under principles of confidentiality and practices within the guidelines and laws governing confidential information.
+
+### Graduate Assistant
+
+[![](images/usfs.png){width="155"}](https://www.fs.usda.gov/)
+
+1\. Worked directly with the U.S. Forest Service to help address the geospatial needs of the National Forests in the Southern Region.\
+2. Enhanced core competencies in forest management decision sciences.\
+3. Developed forest visitor maps.
+
+## Education
+
+### University of South Carolina, Aiken
+
+![](images/usca.png)
+
+Master of Business Administration
+
+### University of Georgia
+
+![](images/GEORGIA-FS-FC.png){width="484"}
+
+Master of Science in Forest Resources
+
+### Presbyterian College
+
+![](images/2022-RGB-PC-Logo-Wordmark-V.png){width="464"}
+
+Bachelor of Science in Biology

@@ -4,14 +4,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "The only formal training I received was through a research project as an undergrad and a statistics course as a graduate student. Everything else I learned from mentors, books, and the world wide web. Here are some things I have found useful in my journey. Below is a non-exhaustive list of some resources that I have found helpful.\n\nOpen Source Books About R\nBig Book of R: https://www.bigbookofr.com/\nR for Data Science: https://r4ds.hadley.nz/\n\n\nData Books\nData Detective\n\n\nBoot Camps\nData Camp\n\n\nCommunity\nR-Ladies\nAIR\nHow I built this website: https://jadeyryan.com/blog/2024-02-19_beginner-quarto-netlify/"
+    "text": "The only formal training I received was through a research project as an undergrad and a statistics course as a graduate student. Everything else I learned from mentors, books, and the world wide web. Here are some things I have found useful in my journey. Below is a non-exhaustive list of some resources that I have found helpful."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Katlyn Bagley-Sepsey",
     "section": "",
-    "text": "Welcome! I am just trying to make the world a better place, or at least not make it worse. I enjoy learning new things and I want to pass on what I have learned.\nSome things I love are my family, my cats, bird watching, lemon-flavored desserts, and science fiction books. I am currently the Associate Director of Institutional Research and Reporting at Furman University and a mom of three.\n \n  \n   \n  \n    \n     Work\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Goodreads"
+    "text": "Welcome! I am just trying to make the world a better place, or at least not make it worse. I enjoy learning new things and I want to pass on what I have learned.\nI love spending time with my my family, my cats, bird watching, lemon-flavored desserts, and science fiction books. I am currently the Associate Director of Institutional Research and Reporting at Furman University and a mom of three.\n \n  \n   \n  \n    \n     Work\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Goodreads"
   },
   {
     "objectID": "index.html#education",
@@ -47,5 +47,33 @@
     "title": "Curriculum Vitae",
     "section": "Education",
     "text": "Education\n\nUniversity of South Carolina, Aiken\n\nMaster of Business Administration\n\n\nUniversity of Georgia\n\nMaster of Science in Forest Resources\n\n\nPresbyterian College\n\nBachelor of Science in Biology"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Using information from a student’s application to predict their college GPA\n\n\n\nTransforming data to clearly communicate insights to various stakeholders.\nEx. Enrollment Dashboard https://www.furman.edu/offices-services/institutional-research/office-of-institutional-assessment-research/public-reports/"
+  },
+  {
+    "objectID": "projects.html#predicting-gpa",
+    "href": "projects.html#predicting-gpa",
+    "title": "Projects",
+    "section": "",
+    "text": "Using information from a student’s application to predict their college GPA"
+  },
+  {
+    "objectID": "projects.html#powerbi-dashboards",
+    "href": "projects.html#powerbi-dashboards",
+    "title": "Projects",
+    "section": "",
+    "text": "Transforming data to clearly communicate insights to various stakeholders.\nEx. Enrollment Dashboard https://www.furman.edu/offices-services/institutional-research/office-of-institutional-assessment-research/public-reports/"
+  },
+  {
+    "objectID": "resources.html#news-media-blogs",
+    "href": "resources.html#news-media-blogs",
+    "title": "Resources",
+    "section": "News, Media, Blogs",
+    "text": "News, Media, Blogs\nTowards Data Science: https://towardsdatascience.com/\nR for the Rest of Us: https://rfortherestofus.com/"
   }
 ]

@@ -10,9 +10,7 @@ Big Book of R: <https://www.bigbookofr.com/>
 
 R for Data Science: <https://r4ds.hadley.nz/>
 
-# Data Books
-
-Data Detective
+Data Detective by Tim Harford
 
 # Boot Camps
 
@@ -20,8 +18,14 @@ Data Camp
 
 # Community
 
-R-Ladies
+R-Ladies: <https://rladies.org/>
 
-AIR
+AIR: <https://www.airweb.org/>
 
 How I built this website: <https://jadeyryan.com/blog/2024-02-19_beginner-quarto-netlify/>
+
+## News, Media, Blogs
+
+Towards Data Science: <https://towardsdatascience.com/>
+
+R for the Rest of Us: <https://rfortherestofus.com/>

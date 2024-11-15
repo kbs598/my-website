@@ -51,23 +51,23 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Projects and Interests",
     "section": "",
-    "text": "Using information from a student’s application to predict their college GPA\n\n\n\nTransforming data to clearly communicate insights to various stakeholders.\nEx. Enrollment Dashboard https://www.furman.edu/offices-services/institutional-research/office-of-institutional-assessment-research/public-reports/"
+    "text": "Using information from a student’s application to predict their college GPA and retention."
   },
   {
     "objectID": "projects.html#predicting-gpa",
     "href": "projects.html#predicting-gpa",
-    "title": "Projects",
+    "title": "Projects and Interests",
     "section": "",
-    "text": "Using information from a student’s application to predict their college GPA"
+    "text": "Using information from a student’s application to predict their college GPA and retention."
   },
   {
     "objectID": "projects.html#powerbi-dashboards",
     "href": "projects.html#powerbi-dashboards",
-    "title": "Projects",
-    "section": "",
-    "text": "Transforming data to clearly communicate insights to various stakeholders.\nEx. Enrollment Dashboard https://www.furman.edu/offices-services/institutional-research/office-of-institutional-assessment-research/public-reports/"
+    "title": "Projects and Interests",
+    "section": "PowerBI Dashboards",
+    "text": "PowerBI Dashboards\nTransforming data to clearly communicate insights to various stakeholders.\nEx. Enrollment Dashboard https://www.furman.edu/offices-services/institutional-research/office-of-institutional-assessment-research/public-reports/"
   },
   {
     "objectID": "resources.html#news-media-blogs",
@@ -75,5 +75,26 @@
     "title": "Resources",
     "section": "News, Media, Blogs",
     "text": "News, Media, Blogs\nTowards Data Science: https://towardsdatascience.com/\nR for the Rest of Us: https://rfortherestofus.com/"
+  },
+  {
+    "objectID": "projects.html#generative-art",
+    "href": "projects.html#generative-art",
+    "title": "Projects and Interests",
+    "section": "Generative Art",
+    "text": "Generative Art\nhttps://thetidytrekker.com/post/thinking-outside-the-grid/thinking-outside-the-grid"
+  },
+  {
+    "objectID": "projects.html#quantum-computing",
+    "href": "projects.html#quantum-computing",
+    "title": "Projects and Interests",
+    "section": "Quantum Computing",
+    "text": "Quantum Computing"
+  },
+  {
+    "objectID": "projects.html#sports-analytics",
+    "href": "projects.html#sports-analytics",
+    "title": "Projects and Interests",
+    "section": "Sports Analytics",
+    "text": "Sports Analytics"
   }
 ]

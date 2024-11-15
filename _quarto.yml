@@ -10,7 +10,7 @@ website:
       - href: cv.qmd
         text: CV
       - href: projects.qmd
-        text: Projects
+        text: Projects and Interests
       - href: resources.qmd
         text: Resources
 format:

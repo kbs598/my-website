@@ -1,15 +1,27 @@
 ---
-title: "Projects"
+title: "Projects and Interests"
 ---
-
-Feel free to reach out to me about any of these!
 
 ## Predicting GPA
 
-Using information from a student's application to predict their college GPA
+Using information from a student's application to predict their college GPA and retention.
 
 ## PowerBI Dashboards
 
 Transforming data to clearly communicate insights to various stakeholders.
 
 Ex. Enrollment Dashboard <https://www.furman.edu/offices-services/institutional-research/office-of-institutional-assessment-research/public-reports/>
+
+## Generative Art
+
+Making public data into works of art.
+
+Inspired by Meghan Harris: <https://thetidytrekker.com/post/thinking-outside-the-grid/thinking-outside-the-grid>
+
+## Quantum Computing
+
+Examining superposition using quantum mechanics and general relativity. Using IBM Qiskit to build theoretical models in Python.
+
+Inspired by Michio Kaku's book: Quantum Supremacy
+
+## Sports Analytics
